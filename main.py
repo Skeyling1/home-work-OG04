@@ -4,8 +4,8 @@ a = 10
 b = 20
 
 
-g = a + b
+g = a ** b
 print(g)
 
-c = a + b
+c = a / b
 print(c)
